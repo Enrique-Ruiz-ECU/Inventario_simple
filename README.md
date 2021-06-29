@@ -1,2 +1,4 @@
-# Inventario_simple
-inventario para guardar,modificar,cargar y eliminar productos (incluye login)
+es una aplicación con el que iniciamos sesión 
+una vez dentro lo que podemos hacer es dar de alta un 
+producto, dar de baja, modificar y cargarlo en nuestra
+interfaz.
